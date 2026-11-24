@@ -1,0 +1,7 @@
+{
+  "appId": "com.kitapxana.app",
+  "appName": "كىتابخانا",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}
